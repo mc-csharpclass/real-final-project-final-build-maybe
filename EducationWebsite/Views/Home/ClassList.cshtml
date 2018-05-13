@@ -1,0 +1,21 @@
+﻿@using WebMatrix.Data;
+@using System.Data.SqlClient;
+@using System.Data;
+@model EducationWebsite.Models.AllClassesModel
+@{
+    ViewBag.Title = "ClassList";
+
+
+
+}
+
+<h2>ClassList</h2>
+<table>
+
+
+    @foreach (var classes in Model.AllClasses)
+    {
+        <p>@classes.Name - @classes.Description - @string.Format("{0:c}", classes.Price)</p>
+    }
+
+</table>

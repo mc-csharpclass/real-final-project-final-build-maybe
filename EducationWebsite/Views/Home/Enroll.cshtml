@@ -1,0 +1,42 @@
+﻿@model EducationWebsite.Models.AllClassesModel
+
+@{
+    ViewBag.Title = "Enroll";
+
+}
+@if (Session["User"] == null)
+{
+    @Html.ActionLink("Please login to see the classes you are enrolled in", "LoginBeta")
+}
+else
+{
+
+    List<SelectListItem> dropdownclasslistdata = new List<SelectListItem>();
+    bool isSelected = false;
+    foreach (var classes in Model.AllClasses)
+    {
+        dropdownclasslistdata.Add(new SelectListItem
+        {
+            Text = classes.Name,
+            Value = classes.Name,
+            Selected = isSelected,
+
+
+        });
+    }
+
+    <h2>Enroll</h2>
+    <body>
+        @using (Html.BeginForm("Enroll", "Home", FormMethod.Post))
+        {
+            <p>
+
+                @Html.DropDownListFor(model => model.SelectedClass, dropdownclasslistdata);
+
+                <input type="submit" value="Register Class" />
+
+            </p>
+        }
+    </body>
+}
+

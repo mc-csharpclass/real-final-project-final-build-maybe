@@ -1,0 +1,37 @@
+﻿@model EducationWebsite.Models.LogInModel
+@{
+    ViewBag.Title = "LogIn";
+
+    var entities = new EduWebSiteEntities();
+    entities.Database.Connection.Open();
+    var loginCheck = entities.User.ToArray();
+}
+
+<body>
+
+    <div class="jumbotron" style="background-color:burlywood">
+        <h2>Welcome Back!</h2>
+        <p>Log in to your account:</p>
+    </div>
+    @using (Html.BeginForm())
+    {
+
+
+        <p>
+            <label>Email:</label>
+            @Html.TextBoxFor(t => t.Email, new { @class = "form-control", maxlength = 30, style = "width:200px;" })
+        </p>
+
+        <p>
+            <label>Password:</label>
+            @Html.TextBoxFor(t => t.Password, new { @class = "form-control", maxlength = 30, style = "width:200px;" })
+        </p>
+
+
+        <input style="text-align:center" class="btn btn-default" type="submit" value="Log In" />
+    }
+    <p></p>
+    <p></p>
+    <p>@Html.ActionLink("Register as a new user", "Register")</p>
+</body>
+

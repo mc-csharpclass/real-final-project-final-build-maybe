@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EducationWebsite", "EducationWebsite\EducationWebsite.csproj", "{AEE7D03F-0014-4C3F-9C24-B501CDD9865F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EducationWebsiteEF", "EducationWebsiteEF\EducationWebsiteEF.csproj", "{717F24DB-DE89-4262-9363-2AA6906C1C5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEE7D03F-0014-4C3F-9C24-B501CDD9865F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEE7D03F-0014-4C3F-9C24-B501CDD9865F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEE7D03F-0014-4C3F-9C24-B501CDD9865F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEE7D03F-0014-4C3F-9C24-B501CDD9865F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{717F24DB-DE89-4262-9363-2AA6906C1C5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{717F24DB-DE89-4262-9363-2AA6906C1C5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{717F24DB-DE89-4262-9363-2AA6906C1C5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{717F24DB-DE89-4262-9363-2AA6906C1C5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {716D0682-62C3-4421-9520-32E21D0AE62C}
+	EndGlobalSection
+EndGlobal

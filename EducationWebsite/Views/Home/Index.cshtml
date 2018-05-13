@@ -1,0 +1,51 @@
+﻿<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>EducationWebsite</title>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/Styles.css" rel="stylesheet" />
+    <style>
+        .btn a {
+            color: white;
+            text-decoration: none;
+        }
+
+        body {
+            background-color: #f1f1f1;
+        }
+    </style>
+</head>
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<body>
+    <div class="jumbotron" style="background-color:burlywood">
+        @*<h4 class="panel-heading" style="background-color:burlywood; font-size:x-large ">The Learning Page</h4>*@
+        <p style="font-size:x-large">The Learning Page</p>
+        <p>The place for technology classes</p>
+        <input style="text-align:center" class="btn btn-success" type="submit" value="Learn More!" />
+    </div>
+
+    <div class="row">
+        <div class="col-lg-4" style="background-color:darkkhaki">
+            <h2>Class List</h2>
+            
+            <p>See all of the classes that we offer</p>
+            <p>
+                <a class="btn btn-primary" role="button" onclick="window.location.href='/Home/ClassList'">Class List &raquo;</a>
+                @*@Html.ActionLink("Class List", "ClassList")*@
+            </p>
+        </div>
+        <div class="col-lg-4" style="background-color:cadetblue">
+            <h2>Your Enrolled Classes</h2>
+            <p>View the classes that you are currently enrolled in</p>
+            <p><a class="btn btn-primary" role="button" onclick="window.location.href='/Home/CurrentEnrolledClasses'">
+                Enrolled Classes &raquo;</a></p>
+        </div>
+        <div class="col-lg-4" style="background-color:wheat">
+            <h2>Enroll in a class</h2>
+            <p>Take the next step and enroll in a class</p>
+            <p><a class="btn btn-primary" role="button" onclick="window.location.href='/Home/Enroll'">Enroll &raquo;</a></p>
+        </div>
+    </div>
+</body>

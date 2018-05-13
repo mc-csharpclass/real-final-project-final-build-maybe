@@ -1,0 +1,318 @@
+C:\Users\Mike\source\repos\EducationWebsite\bin\ApplicationInsights.config
+C:\Users\Mike\source\repos\EducationWebsite\bin\EducationWebsite.dll.config
+C:\Users\Mike\source\repos\EducationWebsite\bin\EducationWebsite.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\EducationWebsite.pdb
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\csc.exe
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\csc.exe.config
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\csc.rsp
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\csi.exe
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\csi.exe.config
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\csi.rsp
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\System.AppContext.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\System.Console.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\System.Security.Claims.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\vbc.exe
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\vbc.exe.config
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\vbc.rsp
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mike\source\repos\EducationWebsite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mike\source\repos\EducationWebsite\bin\Antlr3.Runtime.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\Microsoft.AI.Web.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\Newtonsoft.Json.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\System.Web.Helpers.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\System.Web.Mvc.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\System.Web.Optimization.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\System.Web.Razor.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\System.Web.WebPages.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\WebGrease.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mike\source\repos\EducationWebsite\bin\System.Web.Helpers.xml
+C:\Users\Mike\source\repos\EducationWebsite\bin\System.Web.Mvc.xml
+C:\Users\Mike\source\repos\EducationWebsite\bin\System.Web.Optimization.xml
+C:\Users\Mike\source\repos\EducationWebsite\bin\System.Web.Razor.xml
+C:\Users\Mike\source\repos\EducationWebsite\bin\System.Web.WebPages.xml
+C:\Users\Mike\source\repos\EducationWebsite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mike\source\repos\EducationWebsite\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mike\source\repos\EducationWebsite\bin\Antlr3.Runtime.pdb
+C:\Users\Mike\source\repos\EducationWebsite\bin\Newtonsoft.Json.xml
+C:\Users\Mike\source\repos\EducationWebsite\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mike\source\repos\EducationWebsite\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mike\source\repos\EducationWebsite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mike\source\repos\EducationWebsite\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mike\source\repos\EducationWebsite\bin\Microsoft.AI.Web.xml
+C:\Users\Mike\source\repos\EducationWebsite\obj\Debug\EducationWebsite.csprojResolveAssemblyReference.cache
+C:\Users\Mike\source\repos\EducationWebsite\obj\Debug\EducationWebsite.csproj.CoreCompileInputs.cache
+C:\Users\Mike\source\repos\EducationWebsite\obj\Debug\EducationWebsite.csproj.CopyComplete
+C:\Users\Mike\source\repos\EducationWebsite\obj\Debug\EducationWebsite.dll
+C:\Users\Mike\source\repos\EducationWebsite\obj\Debug\EducationWebsite.pdb
+C:\Users\Mike\source\repos\EducationWebsite\bin\EntityFramework.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\EntityFramework.SqlServer.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\WebMatrix.Data.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\WebMatrix.WebData.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\EntityFramework.xml
+C:\Users\Mike\source\repos\EducationWebsite\bin\EntityFramework.SqlServer.xml
+C:\Users\Mike\source\repos\EducationWebsite\bin\WebMatrix.Data.xml
+C:\Users\Mike\source\repos\EducationWebsite\bin\WebMatrix.WebData.xml
+C:\Users\Mike\source\repos\EducationWebsite\bin\EducationWebsiteEF.exe
+C:\Users\Mike\source\repos\EducationWebsite\bin\EducationWebsiteEF.pdb
+C:\Users\Mike\source\repos\EducationWebsite\bin\EducationWebsiteEF.exe.config
+C:\Users\Mike\source\repos\EducationWebsite\bin\Autofac.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\Autofac.Integration.Mvc.dll
+C:\Users\Mike\source\repos\EducationWebsite\bin\Autofac.xml
+C:\Users\Mike\source\repos\EducationWebsite\bin\Autofac.Integration.Mvc.xml
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\ApplicationInsights.config
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\EducationWebsite.dll.config
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\EducationWebsite.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\EducationWebsite.pdb
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\csc.exe
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\csc.exe.config
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\csc.rsp
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\csi.exe
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\csi.exe.config
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\csi.rsp
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\System.AppContext.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\System.Console.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\System.Security.Claims.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\vbc.exe
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\vbc.exe.config
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\vbc.rsp
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\Antlr3.Runtime.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\Autofac.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\Autofac.Integration.Mvc.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\EducationWebsiteEF.exe
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\EntityFramework.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\EntityFramework.SqlServer.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\Microsoft.AI.Web.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\Newtonsoft.Json.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\System.Web.Helpers.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\System.Web.Mvc.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\System.Web.Optimization.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\System.Web.Razor.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\System.Web.WebPages.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\WebGrease.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\WebMatrix.Data.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\WebMatrix.WebData.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\EducationWebsiteEF.pdb
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\EducationWebsiteEF.exe.config
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\Autofac.xml
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\Autofac.Integration.Mvc.xml
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\EntityFramework.xml
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\EntityFramework.SqlServer.xml
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\System.Web.Helpers.xml
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\System.Web.Mvc.xml
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\System.Web.Optimization.xml
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\System.Web.Razor.xml
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\System.Web.WebPages.xml
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\Antlr3.Runtime.pdb
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\WebMatrix.Data.xml
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\WebMatrix.WebData.xml
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\Newtonsoft.Json.xml
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mike\Desktop\final project\EducationWebsite\bin\Microsoft.AI.Web.xml
+C:\Users\Mike\Desktop\final project\EducationWebsite\obj\Debug\EducationWebsite.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\final project\EducationWebsite\obj\Debug\EducationWebsite.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Desktop\final project\EducationWebsite\obj\Debug\EducationWebsite.csproj.CopyComplete
+C:\Users\Mike\Desktop\final project\EducationWebsite\obj\Debug\EducationWebsite.dll
+C:\Users\Mike\Desktop\final project\EducationWebsite\obj\Debug\EducationWebsite.pdb
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\obj\Debug\EducationWebsite.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\obj\Debug\EducationWebsite.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\obj\Debug\EducationWebsite.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\obj\Debug\EducationWebsite.pdb
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\ApplicationInsights.config
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\EducationWebsite.dll.config
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\EducationWebsite.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\EducationWebsite.pdb
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\csc.exe
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\csc.exe.config
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\csc.rsp
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\csi.exe
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\csi.exe.config
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\csi.rsp
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\System.AppContext.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\System.Console.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\System.Security.Claims.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\vbc.exe
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\vbc.exe.config
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\vbc.rsp
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\Antlr3.Runtime.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\Autofac.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\Autofac.Integration.Mvc.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\EducationWebsiteEF.exe
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\EntityFramework.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\EntityFramework.SqlServer.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\Microsoft.AI.Web.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\Newtonsoft.Json.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\System.Web.Helpers.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\System.Web.Mvc.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\System.Web.Optimization.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\System.Web.Razor.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\System.Web.WebPages.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\WebGrease.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\WebMatrix.Data.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\WebMatrix.WebData.dll
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\EducationWebsiteEF.pdb
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\EducationWebsiteEF.exe.config
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\Autofac.xml
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\Autofac.Integration.Mvc.xml
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\EntityFramework.xml
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\EntityFramework.SqlServer.xml
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\System.Web.Helpers.xml
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\System.Web.Mvc.xml
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\System.Web.Optimization.xml
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\System.Web.Razor.xml
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\System.Web.WebPages.xml
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\Antlr3.Runtime.pdb
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\WebMatrix.Data.xml
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\WebMatrix.WebData.xml
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\Newtonsoft.Json.xml
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\bin\Microsoft.AI.Web.xml
+C:\Users\Mike\Desktop\i dont like git\EducationWebsite\obj\Debug\EducationWebsite.csproj.CopyComplete

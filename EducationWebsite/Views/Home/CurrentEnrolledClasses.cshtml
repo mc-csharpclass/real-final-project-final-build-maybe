@@ -1,0 +1,46 @@
+﻿@using System.Linq;
+@model IEnumerable<EducationWebsite.Models.UserClassesModel>
+@{
+    /**/
+
+    ViewBag.Title = "CurrentEnrolledClasses";
+}
+
+<h2>CurrentEnrolledClasses</h2>
+@if (Session["User"] == null)
+{
+    @Html.ActionLink("Please login to see the classes you are enrolled in", "LoginBeta")
+}
+else
+{
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(classes => classes.ClassName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(classes => classes.ClassDescription)
+            </th>
+            <th>
+                @Html.DisplayNameFor(classes => classes.ClassPrice)
+            </th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(classesItem => item.ClassName)
+                </td>
+                <td>
+                    @Html.DisplayFor(classesItem => item.ClassDescription)
+                </td>
+                <td>
+                    @Html.DisplayFor(classesItem => item.ClassPrice)
+                </td>
+            </tr>
+        }
+    </table>
+}
+
+
